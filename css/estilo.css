@@ -1,0 +1,190 @@
+@font-face {
+    font-family: Lobster;
+    src: url(../fonts/Lobster-Regular.ttf);
+}
+
+body{
+    font-family: Lobster;
+}
+
+.bg-menu{
+    background-color: #ffff7a9d;
+}
+
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link{
+    color: #851d86;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: #000;
+    font-size: 1.5em;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #851d86;
+}
+
+#Home{
+    margin-top: 116px;
+}
+
+.btn-saibaMais{
+    background-color: #FFF;
+    color: #000;
+}
+
+.btn-saibaMais:hover{
+    background-color: #FFF;
+    background-color: #ffff7a;
+}
+
+#Apresentacao{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#Apresentacao img{
+    border-radius: 50%;
+}
+
+#Apresentacao p{
+    color: #851d86;
+    margin-top: 20px;
+    font-size: 1.4em;
+}
+
+.btn-saibaMais2{
+    background-color: #ffff7a;
+    color: #000;
+    border-radius: 10px;
+    border: 1px solid #000;
+
+}
+
+.btn-saibaMais2:hover{
+    background-color: #ff8c00;
+}
+
+.formataRodape{
+    background-color: blueviolet;
+    color: #FFF;
+    position: relative;
+}
+
+.formataRodape p{
+    font-size: 1.2em;
+}
+
+.dropdown-item{
+    color: #FFF;
+}
+
+.dropdown-item:hover{
+    background-color: #ffff7a;
+}
+
+.dropdown-menu{
+    background-color: blueviolet;
+}
+
+#Historia{
+    color: #27357e;
+    background-color: #40e0d0;
+    background-attachment: fixed;
+    margin-top: 166px;
+    margin-bottom: 50px;
+    padding: 30px 0;
+
+}
+
+#Historia p{
+    font-size: 1.2em;
+}
+
+#Historia ul li{
+    font-size: 1.2em;
+    padding: 10px 0;
+}
+
+#Contato{
+    margin-top: 166px;
+    background-color: #FFAAAA;
+    color: #800000;
+    padding: 30px 0;
+    margin-bottom: 50px;
+}
+
+#Contato p{
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+#Galeria{
+    margin-top: 166px;
+    background-color: #ee82ee;
+    color: #fff;
+    padding: 30px 0;
+    margin-bottom: 50px;
+}
+
+#Galeria p{
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.bordaImagem{
+    border: 2px solid #FFF;
+}
+
+#Yordles{
+    margin-top: 166px;
+    background-color: #FEA17D;
+    color: #08085A;
+    padding: 30px 0;
+    margin-bottom: 50px;
+}
+
+#Yordles p{
+    font-size: 1.2em;
+}
+
+#Yordles h5{
+    font-size: 1.7em;
+}
+
+.btnCustom{
+    font-size: 1.5em;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 20px;
+    background-color: #dcdcdc;
+}
+
+.btnCustom:hover{
+    background-color: rgb(188, 144, 230);
+}
+
+.btnCustom2{
+    font-size: 1.5em;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 20px;
+    background-color: #dcdcdc;
+}
+
+.btnCustom2:hover{
+    background-color: rgb(188, 144, 230);
+}
+
+.formataCard{
+    color: #6a5acd;
+}
+
+.formataYordles{
+    margin: 50px 0;
+    color: #0047AB;
+}
+
+.formataYordles p{
+    font-size: 1.2em;
+}
